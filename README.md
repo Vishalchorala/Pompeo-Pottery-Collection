@@ -6,3 +6,5 @@ Features :
 Gallery of pottery items
 Technologies Used
 HTML5 for structure
+
+With about gallery contact Pages
